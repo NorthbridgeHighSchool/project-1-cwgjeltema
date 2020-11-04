@@ -1,0 +1,19 @@
+a:link {
+  color: rgb(224, 23, 231)
+}
+a:visted {
+  color: rgb(20, 240, 20)
+}
+a:hover {
+  color: rgb(16, 231, 195);
+  text-decoration: underline;
+}
+a.current {
+  color: rgb(212, 19, 19)
+}
+html {
+  background-color: rgb(238, 206, 23)
+}
+img {
+  max-height: 200px
+}
